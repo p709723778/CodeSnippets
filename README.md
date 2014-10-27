@@ -6,4 +6,4 @@ CodeSnippets
 
 使用XCode插件
 ACCodeSnippetRepositoryPlugin
-我来fix下,一会你删掉我
+我不会git,你还是炒掉我吧
